@@ -15,7 +15,11 @@
 * দলিলের ভিত্তিতে মতানৈক্যপূর্ণ মাসায়েল শিক্ষা
 * হাদিসের পরিচিতি
 
-[জরুরী দ্বীনি শিক্ষা](https://alqurandigitalacademy.com/learning-islam/)
+[জরুরী দ্বীনি শিক্ষা](https://alqurandigitalacademy.com/learning-islam/) <br/>
+* আক্বীদা শিক্ষা
+* মাসায়েল শিক্ষা
+* মাসনূন দু'আ শিক্ষা
+* প্রশ্নোত্তর
 
 [পরিচিতি](https://alqurandigitalacademy.com/about-us/)
 
