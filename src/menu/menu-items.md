@@ -1,6 +1,6 @@
 [হোম পেজ](https://alqurandigitalacademy.com/)
 
-[কুরআন শিক্ষা](https://alqurandigitalacademy.com/al-quran/)
+[কুরআন শিক্ষা](https://alqurandigitalacademy.com/al-quran/) <br/>
 ডিজিটাল পদ্ধতিতে কুরআন শিক্ষা <br/>
 ডিজিটাল পদ্ধতিতে কুরআনের অর্থ শিক্ষা <br/>
 ডিজিটাল পদ্ধতিতে কুরআনের গল্প শিক্ষা <br/>
