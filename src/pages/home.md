@@ -1,4 +1,4 @@
-![Al-Quran-Digital-Acacemy]()
+![Al-Quran-Digital-Acacemy](https://github.com/tradecoder/al-quran-digital-academy/blob/master/src/media/al-quran-digital-academy-banner.jpg)
 
 # আল কুরআন ডিজিটাল একাডেমি
 এসো কুরআন শিখি, আল্লাহর সন্তুষ্টি অর্জন করি এবং দুনিয়া ও আখিরাতে সফল হই ।
